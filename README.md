@@ -33,3 +33,9 @@ create table users (<br>
 select * from users<br>
 
 Este portfólio PHP é o resultado de um esforço de equipe e é uma ótima maneira de demonstrar nossas habilidades de desenvolvimento web. Sinta-se à vontade para clonar e personalizar este repositório para criar seu próprio portfólio online impressionante, seja como um projeto individual ou em colaboração com outros desenvolvedores.
+
+# Integrantes
+`@lonelykkj`
+
+`@thepokenik`
+
