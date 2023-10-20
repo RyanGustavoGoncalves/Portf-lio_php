@@ -1,14 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=ADLaM+Display&family=Poppins&family=Ubuntu+Mono&display=swap");
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
 }
 
 body {
     width: 100%;
     height: 100%;
     position: absolute;
-    font-family: sans-serif;
     background-color: #F4EDF7;
     color: #180D1C;
 }
@@ -17,6 +18,7 @@ header {
     display: flex;
     padding: 15px;
     justify-content: space-between;
+    color: #7e57c2;
 }
 
 header>nav {
@@ -31,6 +33,8 @@ header>nav>ul {
     align-items: center;
     gap: 30px;
     padding: 5px;
+    text-decoration: underline;
+    text-decoration-color: #7e57c2;
 }
 
 li {
