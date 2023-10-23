@@ -160,3 +160,8 @@ div.login>span{
 hr{
     width: 100%;
 }
+@media (max-width: 500px){
+    div.titForm{
+        display: none;
+    }
+}

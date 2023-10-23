@@ -165,7 +165,7 @@ div.login>span{
 hr{
     width: 100%;
 }
-div.icon{
+/* div.icon{
     position: relative;
     padding: 10px;
     display: flex;
@@ -185,8 +185,13 @@ div.icon>img{
     to{
         transform: rotate(360deg);
     }
-}
+} */
 div.result{
     color: white;
     margin: 20px;
+}
+@media (max-width: 500px){
+    div.titForm{
+        display: none;
+    }
 }
