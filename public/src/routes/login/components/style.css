@@ -195,3 +195,7 @@ div.result{
         display: none;
     }
 }
+
+.btn-input{
+    cursor: pointer;
+}
