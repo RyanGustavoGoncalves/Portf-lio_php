@@ -45,84 +45,70 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
           <div class="projeto-box">
             <img src="assets/teste2.jpg" alt="" />
             <div class="projeto-layer">
-              <h4>Projeto 1</h4>
+              <h4>Calculadora de Bhaskara</h4>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-                quibusdam quod at asperiores, esse ad veniam soluta sapiente
-                corrupti, dolor perspiciatis nisi harum ducimus. Placeat non
-                aspernatur molestiae adipisci delectus!
+              O projeto "Calculadora de Bhaskara em PHP" é uma aplicação web que permite aos usuários calcular as raízes de uma equação quadrática usando a fórmula de Bhaskara.
               </p>
-              <a href="#"><i class="bx bx-link-external"><img src="assets/external-link.svg" alt=""></i></a>
+              <a href="/portfolio_php/public/src/routes/Home/projects/bhaskara/index.php"><i class="bx bx-link-external"><img src="assets/external-link.svg" alt=""></i></a>
             </div>
           </div>
 
           <div class="projeto-box">
             <img src="assets/teste2.jpg" alt="" />
             <div class="projeto-layer">
-              <h4>Projeto 2</h4>
+              <h4>Calculadora de Idade</h4>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-                quibusdam quod at asperiores, esse ad veniam soluta sapiente
-                corrupti, dolor perspiciatis nisi harum ducimus. Placeat non
-                aspernatur molestiae adipisci delectus!
+              A "Calculadora de Idade em PHP" é uma aplicação web que permite aos usuários inserir sua data de nascimento e, em seguida, calcula e exibe a idade atual com base nessa informação. 
               </p>
-              <a href="#"><i class="bx bx-link-external"><img src="assets/external-link.svg" alt=""></i></a>
+              <a href="/portfolio_php/public/src/routes/Home/projects/calcularIdade/index.php"><i class="bx bx-link-external"><img src="assets/external-link.svg" alt=""></i></a>
             </div>
           </div>
 
           <div class="projeto-box">
             <img src="assets/teste2.jpg" alt="" />
             <div class="projeto-layer">
-              <h4>Projeto 3</h4>
+              <h4>Site da Etec Responsivo</h4>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-                quibusdam quod at asperiores, esse ad veniam soluta sapiente
-                corrupti, dolor perspiciatis nisi harum ducimus. Placeat non
-                aspernatur molestiae adipisci delectus!
+              O projeto de "Recriação Responsiva do Site da ETEC" tem como objetivo reformular o site da Escola Técnica Estadual (ETEC) para torná-lo responsivo. 
+              Uma abordagem responsiva garante que o site seja acessível
               </p>
-              <a href="#"><i class="bx bx-link-external"><img src="assets/external-link.svg" alt=""></i></a>
+              <a href="/portfolio_php/public/src/routes/Home/projects/etecResponsiva/index.html"><i class="bx bx-link-external"><img src="assets/external-link.svg" alt=""></i></a>
             </div>
           </div>
 
           <div class="projeto-box">
             <img src="assets/teste2.jpg" alt="" />
             <div class="projeto-layer">
-              <h4>Projeto 4</h4>
+              <h4>Conversor de Horas</h4>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-                quibusdam quod at asperiores, esse ad veniam soluta sapiente
-                corrupti, dolor perspiciatis nisi harum ducimus. Placeat non
-                aspernatur molestiae adipisci delectus!
+              O "Conversor de Horas para Minutos e Minutos para Horas em PHP" é uma aplicação web que permite aos usuários converter entre horas e minutos de forma rápida e fácil.
               </p>
-              <a href="#"><i class="bx bx-link-external"><img src="assets/external-link.svg" alt=""></i></a>
+              <a href="/portfolio_php/public/src/routes/Home/projects/horasMinutos/index.php"><i class="bx bx-link-external"><img src="assets/external-link.svg" alt=""></i></a>
             </div>
           </div>
 
           <div class="projeto-box">
             <img src="assets/teste2.jpg" alt="" />
             <div class="projeto-layer">
-              <h4>Projeto 5</h4>
+              <h4>Duende Lanches</h4>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-                quibusdam quod at asperiores, esse ad veniam soluta sapiente
-                corrupti, dolor perspiciatis nisi harum ducimus. Placeat non
-                aspernatur molestiae adipisci delectus!
+              O "Duende Lanches" é uma aplicação web desenvolvida em PHP que oferece aos usuários a ]
+              conveniência de fazer pedidos de lanches de forma simples e rápida. 
+              A aplicação permite que os clientes naveguem por um cardápio de lanches, 
+              adicionem itens ao seu carrinho de compras e finalizem o pedido de forma eficiente.
               </p>
-              <a href="#"><i class="bx bx-link-external"><img src="assets/external-link.svg" alt=""></i></a>
+              <a href="/portfolio_php/public/src/routes/Home/projects/restaurante/index.html"><i class="bx bx-link-external"><img src="assets/external-link.svg" alt=""></i></a>
             </div>
           </div>
 
           <div class="projeto-box">
             <img src="assets/teste2.jpg" alt="" />
             <div class="projeto-layer">
-              <h4>Projeto 6</h4>
+              <h4>Seleção de Curriculos</h4>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-                quibusdam quod at asperiores, esse ad veniam soluta sapiente
-                corrupti, dolor perspiciatis nisi harum ducimus. Placeat non
-                aspernatur molestiae adipisci delectus!
+              O "Seleção de Curriculos" é uma aplicação web desenvolvida em PHP projetada para facilitar o processo de seleção de currículos e contratação de funcionários.
               </p>
-              <a href="#"><i class="bx bx-link-external"><img src="assets/external-link.svg" alt=""></i></a>
+              <a href="/portfolio_php/public/src/routes/Home/projects/curriculo/seleção.html"><i class="bx bx-link-external"><img src="assets/external-link.svg" alt=""></i></a>
             </div>
           </div>
         </div>
